@@ -10,7 +10,7 @@ import moment from "moment-timezone"
 //⊱ ━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━ ⊰  
 
 global.owner = [
-  ['519020500745', 'おDanịel.xyz⁩', true],
+  ['51902050745', 'おDanịel.xyz⁩', true],
   ['521813976062'],
   ['521861009198'],
   ['521821275256'],
